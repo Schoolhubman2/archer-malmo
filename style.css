@@ -1,0 +1,44 @@
+#header{
+	margin:0 auto 50px auto;
+	text-align:center;
+}
+
+#name{
+	color:#EF670B;
+	font-weight: 800;
+	transtition: font-size 2s;
+}
+
+#name:hover{
+	font-size: 90px;
+}
+
+body{
+	background-color: #AFE3FF;
+}
+
+.fact{
+	color:#EF670B;
+	font-weight: 800;
+}
+
+img{
+	width:500px;
+	height:400px;
+}
+
+img.ladder {
+	height:600px;
+	width:400px;
+    transition: filter 8s;
+}
+
+img.ladder:hover {
+    filter: hue-rotate(360deg);
+}
+
+/*590000(Rosewood-First Color Choice)
+DD4646(English Vermillion-Second Color Choice)*/
+
+/*EF670B-Orange
+AFE3FF-Fresh Air*/
